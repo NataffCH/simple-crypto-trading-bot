@@ -174,25 +174,6 @@ webserver.ip: 127.0.0.1
 
 ```
 
-## Web UI
-
-### Dashboard
-
-![Webserver UI](documentation/cryptobot.png "Webserver UI")
-
-### Trades / Positions / Orders
-
-![Webserver UI](documentation/trades.png "Trades / Positions / Orders")
-
-### Backtesting
-
-Currently there is a the UI for backtesting
-
-![Webserver UI](documentation/backtest_result.png "Backtest Result")
-
-### Manual Orders
-
-![Webserver UI](documentation/manual_order.png "Manual Orders")
 
 ## Build In Strategies
 
