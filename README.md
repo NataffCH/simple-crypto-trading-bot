@@ -370,11 +370,6 @@ Per pair you can set used margin before orders are created; depending on exchang
 node index.js backfill -e bitmex -p 1m -s XRPZ18
 ```
 
-## Signals
-
-### Slack
-
-![Webserver UI](documentation/slack_signals.png "Slack signals")
 
 ## Tests
 
